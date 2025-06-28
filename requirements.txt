@@ -1,0 +1,7 @@
+aiohttp
+aiohttp_retry
+beautifulsoup4
+requests
+lxml
+fake-useragent
+python-dotenv

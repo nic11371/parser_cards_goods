@@ -1,0 +1,15 @@
+[project]
+name = "parser-cards-goods"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp",
+    "aiohttp-retry",
+    "beautifulsoup4",
+    "requests",
+    "lxml",
+    "fake-useragent",
+    "python-dotenv",
+]
